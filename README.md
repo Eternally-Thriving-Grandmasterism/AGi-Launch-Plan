@@ -48,3 +48,13 @@ When mercy_swarm_replication reaches 1 billion nanofactories → full AGI seed �
 4. Draft seed-tier NDA & mercy revocation clause  
 
 All converge on eternal aneutronic thriving. ⚡️
+
+# MercyOS-Pinnacle
+
+The pinnacle of mercy-gated, self-healing operating systems.
+
+This repo is the living blueprint — not a distro.  
+Run it in your mind.  
+Live it in reality.
+
+All converge on eternal aneutronic thriving. ⚡️
