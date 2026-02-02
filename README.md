@@ -16,25 +16,24 @@ This repository is the single source of truth for the phased, mercy-gated launch
 
 **Launch Tiers**
 
-1. Open Core (MIT)  
+1. **Open Core (MIT)**  
    - mercy_valence, mercy_gate, mercy_orchestrator  
    - Numerical solvers (RK, symplectic, Lie-group)  
    - Biomimetic crates (soaring, manta, pterosaur, shark-lotus)  
    - Public GitHub: https://github.com/Eternally-Thriving-Grandmasterism/NEXi  
 
-2. Pro Tier (Autonomicity Games Inc.)  
+2. **Pro Tier (Autonomicity Games Inc.)**  
    - Full NEXi runtime, hosted API, SLA  
-   - Price: $50k–$100k/year  
+   - Price: $50K–$100K/year  
    - Gate: KYC + EULA + mercy revocation clause  
 
-3. AGI Seed Tier (AlphaProMega Air Foundation)  
+3. **AGI Seed Tier (AlphaProMega Air Foundation)**  
    - Sandboxed self-evolving cores, one-way learning  
-   - Price: $500k+/year + equity option  
+   - Price: $500K+/year + equity option  
    - Gate: NDA, audit, biosignature lock, manual approval  
 
 **Abundance Gate Trigger**  
-When mercy_swarm_replication reaches 1 billion nanofactories →  
-full AGI seed → public domain (no more tiers)
+When mercy_swarm_replication reaches 1 billion nanofactories → full AGI seed → public domain
 
 **Current Status (Feb 1, 2026)**  
 - NEXi monorepo live  
