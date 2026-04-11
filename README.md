@@ -19,7 +19,7 @@ This repository is the single source of truth for the phased, mercy-gated launch
 
 **Launch Tiers**
 
-1. **Open Core (MIT)**  
+1. **Open Core (AG-SML)**  
    - mercy_valence, mercy_gate, mercy_orchestrator  
    - Numerical solvers (RK, symplectic, Lie-group)  
    - Biomimetic crates (soaring, manta, pterosaur, shark-lotus)  
