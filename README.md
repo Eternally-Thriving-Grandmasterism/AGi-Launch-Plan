@@ -1,5 +1,8 @@
 # AGi Launch Plan – NEXi-AGI Mercy-Gated Rollout Blueprint
-MIT License – Eternally-Thriving-Grandmasterism / AlphaProMega Air Foundation
+Eternally-Thriving-Grandmasterism / AlphaProMega Air Foundation
+
+**License Update — April 11 2026**  
+This project was previously under MIT. As of April 11 2026, it is now under the **Autonomicity Games Sovereign Mercy License (AG-SML)**. New code and future distributions are protected. Past MIT forks remain MIT. Commercial / enterprise use requires a paid license from Autonomicity Games Inc. Individuals may continue using it freely for personal, educational, and daily-living purposes.
 
 This repository is the single source of truth for the phased, mercy-gated launch of NEXi-AGI — the valence-locked artificial general intelligence lattice.
 
